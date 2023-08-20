@@ -40,6 +40,7 @@
 ![](https://img.shields.io/badge/AWS_Textract-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![](https://img.shields.io/badge/AWS_Lambda-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+![](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
 
 ## GitHub Analytics ⚙️ &nbsp; 
@@ -47,11 +48,8 @@
 <p>
 <a href="https://github.com/hasanafzal8485">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hasanafzal8485&show_icons=true&theme=vue-light&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hasanafzal8485&layout=compact&exclude_lang=java+r&theme=vue-light" />
 </a>
 </p>
-
-![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](https://github.com/hasanafzal8485/hasanafzal8485/blob/output/github-contribution-grid-snake.gif)
 
 <h1>
   Connect With Me
